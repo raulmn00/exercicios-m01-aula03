@@ -1,0 +1,1 @@
+console.log("Primeiro commit do repositório!");
